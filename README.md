@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Mallebhari</h1>
-<h3 align="center">A full stack developer from India building cool stuff out there!</h3>
+<h3 align="center">A full stack developer from India trying to build cool stuff!</h3>
 
 <p align="left"> <a href="https://twitter.com/mallebhari_" target="blank"><img src="https://img.shields.io/twitter/follow/mallebhari_?logo=twitter&style=for-the-badge" alt="mallebhari_" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Next, Typescript & Python**
 
-- 📫 How to reach me **heymustafa.work@gmail.com**
+- 📫 Reach me out - **heymustafa.work@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, I'm probably capturing moments out there or sleeping on my bed 😴**
 
