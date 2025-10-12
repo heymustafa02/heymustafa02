@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Mallebhari</h1>
-<h3 align="center">A full stack developer from India trying to build cool stuff!</h3>
+<h3 align="center">A full stack developer shipping stuff onchain!</h3>
 
 <p align="left"> <a href="https://twitter.com/mallebhari_" target="blank"><img src="https://img.shields.io/twitter/follow/mallebhari_?logo=twitter&style=for-the-badge" alt="mallebhari_" /></a> </p>
 
