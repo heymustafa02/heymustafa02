@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mallebhari_" target="blank"><img src="https://img.shields.io/twitter/follow/mallebhari_?logo=twitter&style=for-the-badge" alt="mallebhari_" /></a> </p>
 
-- 👋 Hey, I’m currently building [Drapier](https://drapier.vercel.app/)
+- 👋 Hey, I’m currently building stuff Onchain
 
-- 🌱 I’m currently learning **Three js, GSAP & Solidity**
+- 🌱 I’m currently learning **Three js, Solidity & Rust**
 
-- 👨‍💻 I've recently built [Wallet Edge](https://walletedge.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://mustafa-mallebhari.vercel.app/home](https://mustafa-mallebhari.vercel.app/home)
+- 👨‍💻 All of my projects are available at [https://mustafamallebhari.tech](https://mustafamallebhari.tech)
 
 - 💬 Ask me about **React, Next, Typescript & Python**
 
