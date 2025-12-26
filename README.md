@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Mallebhari</h1>
+<h1 align="center">Yo 👋, I'm Mustafa</h1>
 <h3 align="center">A Full Stack Developer shipping stuff Onchain ⚡</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 - 👋 I’m currently building stuff **Onchain**
-- 🌱 Learning **Three.js, Solidity & Rust**
+- 🌱 Learning **Rust 🦀**
 - 👨‍💻 Explore all my projects at [**mustafamallebhari.tech**](https://mustafamallebhari.tech)
 - 💬 Ask me about **React, Next.js, TypeScript & Python**
 - 📫 Reach me at **heymustafa.work@gmail.com**
@@ -26,11 +26,6 @@
 <a href="https://stackoverflow.com/users/24940050/mustafa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafa.mallebhari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
-📱 **Other Spaces**
-- 🟣 Telegram → [@MustafaMallebhari](https://t.me/MustafaMallebhari)  
-- 🟢 Farcaster → [@mallebhari](https://farcaster.xyz/mallebhari)  
-- 🔵 Discord → [imustafa02](https://discordapp.com/users/imustafa02)
 
 ---
 
