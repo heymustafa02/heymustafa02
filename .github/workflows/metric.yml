@@ -1,12 +1,12 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -14,50 +14,54 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           user: heymustafa02
-          template: classic
           filename: metrics.svg
+          template: classic
 
-          # 🌙 Theme
+          # 🌙 THEME (important)
           config_theme: dark
           config_display: large
-          config_padding: 16
+          config_padding: 18
 
-          # 🧩 Base sections
-          base: header, activity, community, repositories
+          # ❌ REMOVE BORING BASE TEXT
+          base: header
 
-          # 📊 Activity
+          # 🔥 CONTRIBUTION STREAK (VISUAL)
+          plugin_streak: yes
+
+          # 📊 LANGUAGE BAR CHART
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          # 🕒 COMMIT TIME GRAPH
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
+
+          # 📈 ACTIVITY GRAPH (COMMITS OVER TIME)
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_limit: 5
 
-          # 🔥 Streak
-          plugin_streak: yes
-
-          # 🕒 Coding habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # 🧠 Languages
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage, bytes-size
-
-          # 🛠 Tech stack icons
-          plugin_topics: yes
-          plugin_topics_limit: 24
-          plugin_topics_sort: stars
-
-          # 📈 Contribution calendar (3D-ish)
+          # 🗓 VISUAL CONTRIBUTION CALENDAR
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
-          # 🚀 Repositories
+          # 🛠 TECH STACK ICONS (THIS IS BIG)
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+
+          # ⭐ FEATURED REPOS (VISUAL)
           plugin_repositories: yes
           plugin_repositories_featured: 3
 
-          # ⏱ Lines of code
+          # 🧮 LINES OF CODE (FUN METRIC)
           plugin_lines: yes
 
-          # 🧪 Optional polish
-          plugin_followup: yes
+          # 🎨 VISUAL POLISH
+          config_border_radius: 16
+          config_shadow: yes
