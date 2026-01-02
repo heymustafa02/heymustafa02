@@ -20,53 +20,38 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-<a href="https://twitter.com/mallebhari_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafamallebhari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24940050/mustafa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafa.mallebhari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/mallebhari_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" />
+  </a>
+  <a href="https://linkedin.com/in/mustafamallebhari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" />
+  </a>
+   <a href="mailto:heymustafa.work@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" />
+  </a>
+  <a href="https://discord.com/users/imustafa02" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="42" />
+  </a>
+ 
 </p>
+
 
 ---
 
 ### 🛠️ Languages & Tools
-
-<p align="left">
-
-<!-- Core Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,rust,solidity&theme=dark" />
-
-
-
-<br/><br/>
-
-<!-- Frameworks & Libraries -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs&theme=dark" />
-
-<br/><br/>
-
-<!-- Styling / UI -->
-<!-- Styling / UI -->
-<img src="https://skillicons.dev/icons?i=tailwind,figma,framer&theme=dark" />
-
-<br/><br/>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
-
-<br/><br/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
-
-<br/><br/>
-
-
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,bash,vscode&theme=dark" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,rust,solidity&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,django,bun&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,mongodb,postgresql,mysql,tailwind,figma,git,bash,vscode&theme=dark" />
+</p>
+
 
 ---
 ### 📊 GitHub Stats
@@ -80,11 +65,8 @@
 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heymustafa02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymustafa02&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
