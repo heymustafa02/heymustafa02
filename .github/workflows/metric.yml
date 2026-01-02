@@ -1,0 +1,63 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: heymustafa02
+          template: classic
+          filename: metrics.svg
+
+          # 🌙 Theme
+          config_theme: dark
+          config_display: large
+          config_padding: 16
+
+          # 🧩 Base sections
+          base: header, activity, community, repositories
+
+          # 📊 Activity
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+
+          # 🔥 Streak
+          plugin_streak: yes
+
+          # 🕒 Coding habits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # 🧠 Languages
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage, bytes-size
+
+          # 🛠 Tech stack icons
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_topics_sort: stars
+
+          # 📈 Contribution calendar (3D-ish)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # 🚀 Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: 3
+
+          # ⏱ Lines of code
+          plugin_lines: yes
+
+          # 🧪 Optional polish
+          plugin_followup: yes
