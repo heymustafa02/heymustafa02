@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Yo 👋, I'm Mustafa</h1>
+ <h1 align="center">Yo 👋, I'm Mustafa</h1>
 <h3 align="center">A Full Stack Developer shipping stuff Onchain ⚡</h3>
 
 <p align="center">
@@ -69,4 +69,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymustafa02&theme=tokyonight" alt="GitHub Streak" />
 </p>
- -->
+
