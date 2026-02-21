@@ -1,5 +1,5 @@
- <h1 align="center">Yo 👋, I'm Mustafa</h1>
-<h3 align="center">A Full Stack Developer shipping stuff Onchain ⚡</h3>
+ <h1 align="center">Yo, I'm Mustafa</h1>
+<h3 align="center">A Full Stack Developer shipping stuff Onchain </h3>
 
 <p align="center">
   <a href="https://twitter.com/mallebhari_" target="_blank">
@@ -9,17 +9,20 @@
 
 ---
 
-### 🧠 About Me
-- 👋 I’m currently building stuff **Onchain**
-- 🌱 Learning **Rust 🦀**
-- 👨‍💻 Explore all my projects at [**mustafamallebhari.tech**](https://mustafamallebhari.tech)
-- 💬 Ask me about **React, Next.js, TypeScript & Python**
-- 📫 Reach me at **heymustafa.work@gmail.com**
-- ⚡ Fun fact: **When I'm not coding, I'm capturing moments 📸 or sleeping 😴**
+## Projects
 
----
+- **[Solana AMM](https://github.com/heymustafa02/Solana-AMM)** — Automated Market Maker on Solana using Anchor with liquidity pools, swaps, and LP token logic.
 
-### 🌐 Connect with Me
+- **[Zapy](https://github.com/heymustafa02/zapy)** — Scalable event-driven automation platform connecting webhooks, email triggers, and blockchain actions via Kafka-powered microservices.
+
+- **[Bolty](https://github.com/heymustafa02/Bolt-clone)** — Full-stack AI platform that converts natural language prompts into fully working animated React applications.
+
+- **[AI Mindmap Canvas](https://github.com/heymustafa02/ai-mindmap-canvas)** — Spatial AI interface that visualizes conversations as connected nodes on an infinite interactive canvas.
+
+- **[Rust Learning Lab](https://github.com/heymustafa02/rust-learning)** — Collection of Rust experiments, fundamentals, and small projects documenting my Rust learning journey.
+
+
+### Connect with Me
 <p align="center">
   <a href="https://twitter.com/mallebhari_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" />
@@ -39,7 +42,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,rust,solidity&theme=dark" />
 </p>
@@ -53,20 +56,4 @@
 </p>
 
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" 
-    alt="snake animation" 
-  />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymustafa02&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
