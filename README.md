@@ -1,12 +1,11 @@
- <h1 align="center">Yo, I'm Mustafa</h1>
-<h3 align="center">A Full Stack Developer shipping stuff Onchain </h3>
+<h1>Hey, I'm Mustafa</h1>
+<h3>Full stack engineer</h3>
 
-<p align="center">
-  <a href="https://twitter.com/mallebhari_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mallebhari_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
+<ul>
+  <li>📫 Email: <a href="mailto:heymustafa.work@gmail.com">heymustafa.work@gmail.com</li>
+  <li>⚡ The only way to do great work is to love what you do.</li>
+</ul>
+   
 ---
 
 ## Projects
