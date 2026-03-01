@@ -11,16 +11,19 @@
 
 ## Projects
 
-- **[Solana AMM](https://github.com/heymustafa02/Solana-AMM)** — Automated Market Maker on Solana using Anchor with liquidity pools, swaps, and LP token logic.
+### [Solana AMM](https://github.com/heymustafa02/Solana-AMM)
+Automated Market Maker on Solana built with Anchor, supporting liquidity pools, swaps, and LP tokens.
 
-- **[Zapy](https://github.com/heymustafa02/zapy)** — Scalable event-driven automation platform connecting webhooks, email triggers, and blockchain actions via Kafka-powered microservices.
+### [Zapy](https://github.com/heymustafa02/zapy)
+Event-driven automation platform connecting webhooks, emails, and blockchain actions using Kafka microservices.
 
-- **[Bolty](https://github.com/heymustafa02/Bolt-clone)** — Full-stack AI platform that converts natural language prompts into fully working animated React applications.
+### [Bolty (Bolt Clone)](https://github.com/heymustafa02/Bolt-clone)
+AI platform that converts natural-language prompts into fully working animated React applications.
 
-- **[AI Mindmap Canvas](https://github.com/heymustafa02/ai-mindmap-canvas)** — Spatial AI interface that visualizes conversations as connected nodes on an infinite interactive canvas.
+### [AI Mindmap Canvas](https://github.com/heymustafa02/ai-mindmap-canvas)
+Spatial AI interface that visualizes conversations as connected nodes on an infinite canvas.
 
-- **[Rust Learning Lab](https://github.com/heymustafa02/rust-learning)** — Collection of Rust experiments, fundamentals, and small projects documenting my Rust learning journey.
-
+--- 
 
 ### Connect with Me
 <p align="center">
@@ -38,7 +41,6 @@
   </a>
  
 </p>
-
 
 ---
 
