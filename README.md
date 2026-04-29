@@ -9,6 +9,8 @@
 ---
 
 ## Projects
+### [Interactions](https://interactions.mustafamallebhari.tech)
+A curated showcase of handcrafted UI components and interactive experiments.
 
 ### [AI Mindmap Canvas](https://github.com/heymustafa02/ai-mindmap-canvas)
 Spatial AI interface that visualizes conversations as connected nodes on an infinite canvas.
@@ -19,8 +21,6 @@ Event-driven automation platform connecting webhooks, emails, and blockchain act
 ### [Bolty (Bolt Clone)](https://github.com/heymustafa02/Bolt-clone)
 AI platform that converts natural-language prompts into fully working animated React applications.
 
-### [Solana AMM](https://github.com/heymustafa02/Solana-AMM)
-Automated Market Maker on Solana built with Anchor, supporting liquidity pools, swaps, and LP tokens.
 
 --- 
 
