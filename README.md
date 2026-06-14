@@ -1,16 +1,21 @@
-<h1>Hey, I'm Mustafa</h1>
-<h3>Full stack engineer</h3>
+# Hey, I'm Mustafa
 
-<ul>
-  <li>📫 Email: <a href="mailto:heymustafa.work@gmail.com">heymustafa.work@gmail.com</li>
-  <li>⚡ The only way to do great work is to love what you do.</li>
-</ul>
-   
+### Full Stack Engineer
+
+- 💼 Work: Previous Founding Engineer at [BLOK Capital](https://blokcapital.io)
+- 📫 Email: [heymustafa.work@gmail.com](mailto:heymustafa.work@gmail.com)
+- ⚡ The only way to do great work is to love what you do.
+
+### Links (reach me here if you wanna talk)
+
+- [x](https://x.com/mustafatwt_)
+- [github](https://github.com/heymustafa02)
+- [linkedin](https://linkedin.com/in/mustafamallebhari)
+- [email](mailto:heymustafa.work@gmail.com)
 ---
 
 ## Projects
-### [Interactions](https://interactions.mustafamallebhari.tech)
-A curated showcase of handcrafted UI components and interactive experiments.
+
 
 ### [AI Mindmap Canvas](https://github.com/heymustafa02/ai-mindmap-canvas)
 Spatial AI interface that visualizes conversations as connected nodes on an infinite canvas.
@@ -18,32 +23,13 @@ Spatial AI interface that visualizes conversations as connected nodes on an infi
 ### [Zapy](https://github.com/heymustafa02/zapy)
 Event-driven automation platform connecting webhooks, emails, and blockchain actions using Kafka microservices.
 
-### [Bolty (Bolt Clone)](https://github.com/heymustafa02/Bolt-clone)
-AI platform that converts natural-language prompts into fully working animated React applications.
-
-
---- 
-
-### Connect with Me
-<p align="center">
-  <a href="https://twitter.com/mallebhari_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" />
-  </a>
-  <a href="https://linkedin.com/in/mustafamallebhari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" />
-  </a>
-   <a href="mailto:heymustafa.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" />
-  </a>
-  <a href="https://discord.com/users/imustafa02" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="42" />
-  </a>
- 
-</p>
+### [Interactions](https://interactions.mustafamallebhari.tech)
+A curated showcase of handcrafted UI components and interactive experiments.
 
 ---
 
-### Languages & Tools
+## Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,rust,solidity&theme=dark" />
 </p>
@@ -55,6 +41,3 @@ AI platform that converts natural-language prompts into fully working animated R
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,mongodb,postgresql,mysql,tailwind,figma,git,bash,vscode&theme=dark" />
 </p>
-
-
-
